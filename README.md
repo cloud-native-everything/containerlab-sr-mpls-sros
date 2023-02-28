@@ -13,7 +13,7 @@ We created two ePipes using different configurations
 * non-TE LSP — R1 — R2 — R4 (i.e., the ISIS’ shortest path)
 * TE LSP — R1 — R3 — R2 — R4 (i.e., the desired TE network path by the carrier for the ePipe service)
 
-## Requeriments
+## Requirements
 Versions used are:
 * containerlab 0.25.1
 * vr-sros 22.5.R2 (requires license)
